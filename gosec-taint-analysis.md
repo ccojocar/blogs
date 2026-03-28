@@ -34,7 +34,7 @@ dependencies beyond what gosec already uses.
 
 ### Architecture
 
-![Taint Analysis Architecture](gosec-taint-architecture.png)
+![Taint Analysis Architecture](https://raw.githubusercontent.com/ccojocar/blogs/refs/heads/main/gosec-taint-architecture.png)
 
 The analysis pipeline has four stages:
 
